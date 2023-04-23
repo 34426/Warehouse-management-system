@@ -2,7 +2,7 @@
 
 ### 有问题，或者不会调试运行的同学, 可以添加微信：xzxj0206
 
-![img.png](img.png)
+![img.png](imgs/img.png)
 
 ## 一、介绍
 
